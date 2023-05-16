@@ -66,3 +66,5 @@ $tvseries = new TvSeries('Supernatural', 'Supernatural is an American dark fanta
 var_dump($movie);
 
 var_dump($tvseries);
+
+?>
